@@ -8,15 +8,14 @@ meta:
 
 # Overview
 
-## What is Datawiza Access Broker?
+## What is Datawiza Access Broker (DAB)?
 
 Datawiza Access Broker is a distributed, lightweight, container-based Identity Aware proxy deployed close to your application via the sidecar or standalone mode.
 It provides a unified authentication and authorization layer, decoupled from the application itself.
 As a container, it can be deployed on-premise and in the cloud as long as the environment supports Docker containers.
 
-Datawiza Access Broker is managed by a centralized management console in the cloud: Datawiza Cloud Management Console.
-No matter you deploy Datawiza Access Broker to protect your applications on-premise or in 
-AWS, Azure, GCP and others, you can manage it via this single plane of management.
+DABs are managed by a centralized management console in the cloud: Datawiza Cloud Management Console (DCMC).
+No matter DABs are deployed in AWS, GCP, Azure or on-premise, all of them can be managed by the single plane of management DCMC.
 
 ## What can I do with Datawiza Access Broker?
 * Enable SSO (Single Sign On) with Identity Provider (e.g. Azure AD, Okta) automatically.
