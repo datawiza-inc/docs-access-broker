@@ -14,6 +14,10 @@ Datawiza Access Broker is a distributed, lightweight, container-based Identity A
 It provides a unified authentication and authorization layer, decoupled from the application itself.
 As a container, it can be deployed on-premise and in the cloud as long as the environment supports Docker containers.
 
+Datawiza Access Broker is managed by a centralized management console in the cloud: Datawiza Cloud Management Console.
+No matter you deploy Datawiza Access Broker to protect your applications on-premise or in 
+AWS, Azure, GCP and others, you can manage it via this single plane of management.
+
 ## What can I do with Datawiza Access Broker?
 * Enable SSO (Single Sign On) with Identity Provider (e.g. Azure AD, Okta) automatically.
 * Enable a fine-grained URL-level access control based on user's attributes and context.
