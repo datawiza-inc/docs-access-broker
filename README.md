@@ -1,4 +1,4 @@
-# Datawiza Access Broker Documentation#
+# Datawiza Access Broker Documentation
 
 Welcome to the open-source [documentation](https://docs.datawiza.com) of [Datawiza Access Broker](https://datawiza.com).
 It's built with [Vuepress](https://vuepress.vuejs.org/).
