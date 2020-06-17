@@ -1,0 +1,23 @@
+.DS_Store
+.idea
+.vscode
+
+dist/*
+bin/*
+tags
+
+# IntelliJ IDEA
+.idea
+*.ipr
+*.iml
+
+node_modules
+package-lock.json
+
+build/
+yarn.lock
+node_modules
+docs/.vuepress/dist/
+.firebase/
+.changes.md
+
